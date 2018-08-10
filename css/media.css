@@ -187,6 +187,14 @@
     padding-bottom: 60px;
 
 }
+   .download-text-app {
+    text-align: center;
+    line-height: 22px;
+    font-size: 16px;
+    color: #121010;
+    padding-bottom: 60px;
+
+}
     .download-item {
         width: 50%;
         height: 137px;
@@ -284,7 +292,7 @@
     font-size: 48px;
     text-align: center;
     color: #182848;
-    margin-top: 50px;
+    margin-top: 150px;
     }
     .features-text {
         line-height: 18px;
@@ -313,29 +321,29 @@
     .partners {
         margin-top: 0;
     }
-    .partners_special {
-
-        width: 170%;
-        margin-left: -125px;
-        margin-top: -40px;
-    }
     .partners-list {
         margin-top: 45px;
         width: 100%;
         padding-bottom: 0;
         border: none;
-        padding-left: 0;
+        padding-left: 0px
+    }
+    .partners_special {
+
+        width: 100%;
+        margin-left: 0px;
     }
     .partners-list a {
         width: 100%;
-        padding: 0;
+        
+        padding-top: 20px
         vertical-align: middle;
         text-align: center;
         margin-bottom: 20px;
     }
     .partners-list img {
         display: inline-block;
-        max-width: 80%;
+        max-width: 70%;
         max-height: 140px;
         vertical-align: middle;
     }
